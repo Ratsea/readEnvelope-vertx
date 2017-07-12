@@ -1,0 +1,11 @@
+threadPool:
+  corePoolSize: 5
+  maxPoolSize: 1000
+  queueCapacity: 1000
+  keepAliveSeconds: 60
+
+vertx:
+  port: 8089
+logging:
+  level: warn
+
